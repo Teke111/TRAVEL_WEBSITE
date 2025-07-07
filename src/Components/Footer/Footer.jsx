@@ -90,7 +90,7 @@ const Footer = () => {
           <span className="linkTitle">Contact Us</span>
 
           <span className="phone">+444 565 6655</span>
-          <span className="email">isratech8@outlook.com</span>
+          <span className="email">kolawoleteke96@gmail.com</span>
         </div>
       </div>
     </div>
