@@ -7,5 +7,5 @@ export default defineConfig({
   // server: {
   //   host: true,
   // },
-  base: "/TRAVEL_WEBSITE",
+  base: "/TRAVEL_WEBSITE/",
 });
